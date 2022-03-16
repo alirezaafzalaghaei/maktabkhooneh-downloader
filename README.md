@@ -1,3 +1,6 @@
+# 2022 UPDATE:
+
+The maktabkhooneh.org website is updated and therefore this code does not work anymore. You can find similar projects in the GitHub search :)
 
 # maktabkhooneh video downloader
 maktabkhooneh.org is virtual digital education school which contains many university courses videos. Unfortunately maktabkhooneh hasn't a good way to download all of videos of an specific course, so i wrote an script which scraps in course page and returns all download links of videos in that course. Note that videos has high-quality.
